@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mikelexcel
+- 👀 I’m interested in game development 🎮
+- 🌱 I’m currently learning Java ☕
+- 😄 Pronouns: He/Him

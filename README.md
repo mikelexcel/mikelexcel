@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mikelexcel
-- 👀 I’m interested in game development 🎮
+- 👀 I’m interested in mobile, web and game development 🎮
 - 🌱 I’m currently learning Flutter 🐦
 - 😄 Pronouns: He/Him
